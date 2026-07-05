@@ -4,7 +4,7 @@
 </p>
 -->
 
-# Hi, I'm Tomas 👋
+# Hi, I'm Tomas 
 
 I'm an **AI developer and frontend engineer** based in Lithuania. At **Hostinger** I build LLM-powered tools and agentic systems — I helped pioneer company-wide adoption of the **Model Context Protocol (MCP)** and contributed to Kodee, an NLP chatbot that deflects 68% of routine support across 4.6M users. My background spans applied physics and five years of production frontend engineering, and I'm heading to **Columbia University** for an M.S. in Data Science.
 
